@@ -2,12 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-
-    <PackageId>BlastDecompressor</PackageId>
-    <Title>Blast Decompressor</Title>
-    <Description>A port of the PkWare Blast compression algorithm based on the C implementation
-    by Mark Adler.</Description>
-    <PackageVersion>0.1-pre</PackageVersion>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Jamestelfer.Blast</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>James Telfer</Authors>
+    <Description>A port of the PkWare Blast compression algorithm based on the C implementation by Mark Adler.</Description>
+    <PackageProjectUrl>https://github.com/jamestelfer/Blast</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/jamestelfer/Blast</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="\"/>
+    <None Include="../LICENSE.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
