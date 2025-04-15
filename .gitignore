@@ -485,3 +485,4 @@ $RECYCLE.BIN/
 
 # Project-specific files
 **/test-files/.output
+!**/test-files/test.log
