@@ -2,7 +2,7 @@ name: Build and Test
 
 on:
   push:
-    branches: [ "create-artifacts" ]
+    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
