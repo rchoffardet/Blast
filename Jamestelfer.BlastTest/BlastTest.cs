@@ -6,7 +6,7 @@ using System.IO;
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
-using Blast;
+using Jamestelfer.Blast;
 using Xunit;
 using Shouldly;
 

@@ -1,4 +1,4 @@
-namespace Blast
+namespace Jamestelfer.Blast
 {
     public class BitStream
     {

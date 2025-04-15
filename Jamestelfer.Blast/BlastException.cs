@@ -1,6 +1,6 @@
 using System;
 
-namespace Blast
+namespace Jamestelfer.Blast
 {
     public class BlastException : Exception
     {

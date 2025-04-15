@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blast", "Blast\Blast.csproj", "{34729648-D777-4C6B-8B9E-85067AE51C49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamestelfer.Blast", "Jamestelfer.Blast\Jamestelfer.Blast.csproj", "{34729648-D777-4C6B-8B9E-85067AE51C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlastTest", "BlastTest\BlastTest.csproj", "{6EF46998-4607-4685-B57F-379499EBB30B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamestelfer.BlastTest", "Jamestelfer.BlastTest\Jamestelfer.BlastTest.csproj", "{6EF46998-4607-4685-B57F-379499EBB30B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

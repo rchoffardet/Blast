@@ -46,7 +46,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace Blast
+namespace Jamestelfer.Blast
 {
     public class BlastDecoder
     {

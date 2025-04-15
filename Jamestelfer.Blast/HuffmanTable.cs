@@ -1,4 +1,4 @@
-namespace Blast
+namespace Jamestelfer.Blast
 {
     /// <summary>
     /// Huffman code decoding tables.  count[1..MAXBITS] is the number of symbols of

@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Blast\Blast.csproj" />
+    <ProjectReference Include="..\Jamestelfer.Blast\Jamestelfer.Blast.csproj" />
   </ItemGroup>
 
 </Project>
